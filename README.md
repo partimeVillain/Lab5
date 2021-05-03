@@ -9,4 +9,4 @@ https://partimevillain.github.io/Lab5/
 
 ## Part 2:
 
-https://github.com/partimeVillain/github-actions-for-ci/issues/4
+https://lab.github.com/githubtraining/github-actions:-continuous-integration
